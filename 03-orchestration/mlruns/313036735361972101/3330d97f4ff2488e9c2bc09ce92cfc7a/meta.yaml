@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/313036735361972101/3330d97f4ff2488e9c2bc09ce92cfc7a/artifacts
+end_time: 1761590684970
+entry_point_name: ''
+experiment_id: '313036735361972101'
+lifecycle_stage: active
+run_id: 3330d97f4ff2488e9c2bc09ce92cfc7a
+run_name: flawless-bird-623
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761590659695
+status: 3
+tags: []
+user_id: codespace

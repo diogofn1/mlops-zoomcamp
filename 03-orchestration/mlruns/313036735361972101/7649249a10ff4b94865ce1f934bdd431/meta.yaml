@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/313036735361972101/7649249a10ff4b94865ce1f934bdd431/artifacts
+end_time: 1761589740118
+entry_point_name: ''
+experiment_id: '313036735361972101'
+lifecycle_stage: active
+run_id: 7649249a10ff4b94865ce1f934bdd431
+run_name: amazing-pig-953
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761589740022
+status: 4
+tags: []
+user_id: codespace

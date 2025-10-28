@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/313036735361972101/1ac5ecc6b0f64a17ac9a7cf1930c699a/artifacts
+end_time: 1761589598305
+entry_point_name: ''
+experiment_id: '313036735361972101'
+lifecycle_stage: active
+run_id: 1ac5ecc6b0f64a17ac9a7cf1930c699a
+run_name: likeable-koi-534
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761589598248
+status: 4
+tags: []
+user_id: codespace

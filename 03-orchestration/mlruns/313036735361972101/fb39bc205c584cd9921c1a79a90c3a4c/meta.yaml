@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/313036735361972101/fb39bc205c584cd9921c1a79a90c3a4c/artifacts
+end_time: 1761590058143
+entry_point_name: ''
+experiment_id: '313036735361972101'
+lifecycle_stage: active
+run_id: fb39bc205c584cd9921c1a79a90c3a4c
+run_name: bald-ox-847
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761590058075
+status: 4
+tags: []
+user_id: codespace
